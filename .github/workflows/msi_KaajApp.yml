@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'KaajApp'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_aebe32a4b02245b991e1d4bf8732bca6 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_fc1229f965894487a541a889b8b9527f }}
